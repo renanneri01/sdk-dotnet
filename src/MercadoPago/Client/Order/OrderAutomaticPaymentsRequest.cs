@@ -1,11 +1,8 @@
 namespace MercadoPago.Client.Order
 {
-    using System;
-    using System.Collections.Generic;
-
-/// <summary>
-/// Automatic Payments class.
-/// </summary>
+    /// <summary>
+    /// Automatic Payments class.
+    /// </summary>
     public class OrderAutomaticPaymentRequest
     {
         /// <summary>

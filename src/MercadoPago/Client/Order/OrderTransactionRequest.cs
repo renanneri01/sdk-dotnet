@@ -1,6 +1,5 @@
 namespace MercadoPago.Client.Order
 {
-    using System;
     using System.Collections.Generic;
 
     /// <summary>
