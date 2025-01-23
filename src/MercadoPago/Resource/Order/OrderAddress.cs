@@ -1,9 +1,5 @@
 namespace MercadoPago.Resource.Order
 {
-    using System;
-    using System.Collections.Generic;
-    using MercadoPago.Http;
-
     /// <summary>
     /// Address class.
     /// </summary>
@@ -18,5 +14,10 @@ namespace MercadoPago.Resource.Order
         /// Street Number.
         /// </summary>        
         public string StreetNumber { get; set; }
+
+        /// <summary>
+        /// Zip Code.
+        /// </summary>
+        public string ZipCode { get; set; }
     }
 }

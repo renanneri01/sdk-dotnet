@@ -1,9 +1,5 @@
 namespace MercadoPago.Resource.Order
 {
-    using System;
-    using System.Collections.Generic;
-    using MercadoPago.Http;
-
     /// <summary>
     /// Invoice Period class.
     /// </summary>

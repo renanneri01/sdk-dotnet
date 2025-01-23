@@ -7,7 +7,7 @@ namespace MercadoPago.Client.Order
     /// </summary>
     /// <remarks>
     /// Check the parameters
-    /// <a href="https://www.mercadopago.com.br/developers/pt/reference/order/online-payments/create/post/">here</a>.
+    /// <a href="https://www.mercadopago.com/developers/en/reference/order/online-payments/create/post/">here</a>.
     /// </remarks>
     public class OrderCreateRequest : IdempotentRequest 
     {

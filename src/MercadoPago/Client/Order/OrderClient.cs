@@ -65,7 +65,7 @@
         /// <exception cref="MercadoPagoApiException">If the API returns a error.</exception>
         /// <remarks>
         /// Check the API documentation
-        /// <a href="https://www.mercadopago.com.br/developers/pt/reference/order/online-payments/create/post/">here</a>.
+        /// <a href="https://www.mercadopago.com/developers/en/reference/order/online-payments/create/post/">here</a>.
         /// </remarks>
         public Task<Order> CreateAsync(
             OrderCreateRequest request,

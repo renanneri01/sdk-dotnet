@@ -15,6 +15,11 @@ namespace MercadoPago.Client.Order
         /// Street Number.
         /// </summary>
         public string StreetNumber { get; set; }
+
+        /// <summary>
+        /// Zip Code.
+        /// </summary>
+        public string ZipCode { get; set; }
     }
 
 }
